@@ -1,0 +1,1 @@
+Nesta aula, para visualizar o "Hello, World!", é necessário acessar pelo navegador (inspecionar / console).

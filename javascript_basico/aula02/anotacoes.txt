@@ -1,0 +1,23 @@
+// Situação
+
+Se o queijo estiver fechado, então
+    abrir o queijo
+fim
+
+// Opção 1
+
+Pegar a faca
+cortar um pedaço do queijo com a faca
+abrir o pão com a faca
+Passar o queijo no pão com a faca
+
+Passar o quejo na parte interna do pão com a faca
+largar a faca e comer o pão
+
+// Opção 2
+
+Pegar a faca
+abrir o pão com a faca
+cortar um pedaço do queijo com a faca
+Passar o quejo na parte interna do pão com a faca
+largar a faca e comer o pão
