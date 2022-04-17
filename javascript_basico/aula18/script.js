@@ -1,4 +1,5 @@
-// Funções
+// Funções - Parte 2
+
 // A função dá um "apelido" para o bloco de comando
 // E toda a vez que chamar esse apelido, o computador vai executar esse bloco
 
